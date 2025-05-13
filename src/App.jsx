@@ -28,6 +28,7 @@ function App() {
           <li>Redes e conectividades</li>
           <li>Sistemas operacionais ( Windows, Linux, MS-DOS )</li>
           <li>Didática técnica para cursos e certificações</li>
+          <li>Estudante eterno</li>
         </ul>
 
         
